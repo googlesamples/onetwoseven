@@ -1,0 +1,6 @@
+
+lint:
+  gofmt -w *.go cmd/*.go
+
+run:
+  go run cmd/127.go --path=test
