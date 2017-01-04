@@ -22,7 +22,7 @@ import (
 	"github.com/aliafshar/toylog"
 	"gopkg.in/alecthomas/kingpin.v2"
 
-	"github.com/aliafshar/onetwoseven"
+	"github.com/googlesamples/onetwoseven"
 )
 
 var (
